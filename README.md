@@ -1,17 +1,11 @@
-README.md
-Maynooth Swap – A Sustainable Borrowing Platform
+# Maynooth Swap – A Sustainable Borrowing Platform
 
-Maynooth Swap is a mobile-style web application built using React and Firebase, designed to support a more sustainable environment by encouraging re-use, borrowing, and sharing within a community.
-Instead of buying new items, users can borrow, lend, request, and swap items – reducing waste, lowering consumption, and strengthening local sustainability habits.
+Maynooth Swap is a mobile-style web application built using React and Firebase, designed to support a more sustainable environment by encouraging re-use, borrowing, and sharing within a community. Instead of buying new items, users can borrow, lend, request, and swap items – reducing waste, lowering consumption, and strengthening local sustainability habits.
 
-📱 Core Features
-🔐 Authentication
-
-User registration & login
-
-Simple local authentication system
-
-User profiles with ratings & reviews
+## Core Features
+-User registration & login
+-Simple local authentication system
+-User profiles with ratings & reviews
 
 🎒 Item Sharing & Borrowing
 
